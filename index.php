@@ -1,5 +1,4 @@
 <?php
-// put your PHP code here
 $myarr = array();
 $myarr[0] = readline();
 $myarr[1] = readline();
